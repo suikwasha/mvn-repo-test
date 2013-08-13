@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.suikwasha</groupId>
+  <artifactId>mvn-repo-test</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130813051813</lastUpdated>
+  </versioning>
+</metadata>
